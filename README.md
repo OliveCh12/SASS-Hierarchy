@@ -1,10 +1,10 @@
+![Banner of SASS_Hierarchy](https://i.postimg.cc/1RM27BbM/banner.jpg)
+
 # SASS_Hierarchy
 
 A SASS Boilerplate for scalabe project.
 
 I made this repository, beacause, I'm tired recreate everytime a `scss file structure`
-
-![Banner of SASS_Hierarchy](https://i.postimg.cc/1RM27BbM/banner.jpg)
 
 ## How to use ?
 
