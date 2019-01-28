@@ -1,6 +1,6 @@
 ![Banner of SASS_Hierarchy](https://i.postimg.cc/1RM27BbM/banner.jpg)
 
-# SASS_Hierarchy
+# SASS _Hierarchy
 
 A SASS Boilerplate for scalabe project.
 
@@ -33,6 +33,22 @@ sass --watch scss/main.scss:css/main.minified.css --style compressed
 ```
 
 Enjoy !
+
+<style>
+h1 {
+    font-weight: bolder;
+}
+
+p {
+    opacity: 0.8;
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre {
+    background-color: #282d31;
+    color: #fff;
+}
+</style>
 
 
 
